@@ -1,6 +1,6 @@
 # Git Assignment
 
-Git and GitHub Assignment for DevWeekends
+Git and GitHub Assignment for DevWeekends - Branch Version
 
 ## Merge vs Rebase
 
