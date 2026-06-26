@@ -1,6 +1,6 @@
 # Git Assignment
 
-Git and GitHub Assignment for DevWeekends
+Git and GitHub Assignment for DevWeekends - Ranch Branch
 
 ## Merge vs Rebase
 
